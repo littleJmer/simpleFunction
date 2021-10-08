@@ -23,6 +23,12 @@ simpleFunction("Smth??ABCDEF");
 simpleFunction("Anita lava la tina")
 ```
 
+## Run example
+executes simpleFunction example
+```
+npm run start
+```
+
 ## Test Cases
 executes simpleFunction test cases
 ```
